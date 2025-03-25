@@ -1,0 +1,45 @@
+{
+  "os": "Linux-5.15.0-119-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.12",
+  "startedAt": "2025-03-22T11:43:36.658759Z",
+  "args": [
+    "examples/train_lora/qwen2vl_lora_sft.yaml"
+  ],
+  "program": "/workspace/LLaMA-Factory/src/llamafactory/launcher.py",
+  "codePath": "src/llamafactory/launcher.py",
+  "git": {
+    "remote": "https://github.com/hiyouga/LLaMA-Factory.git",
+    "commit": "d8a5571be7fcdc6f9e2442a832252d507f58c862"
+  },
+  "email": "siyulu1224@gmail.com",
+  "root": "/workspace/LLaMA-Factory",
+  "host": "9af037262871",
+  "executable": "/venv/main/bin/python3.10",
+  "codePathLocal": "src/llamafactory/launcher.py",
+  "cpu_count": 64,
+  "cpu_count_logical": 128,
+  "gpu": "NVIDIA A100-PCIE-40GB",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "61203283968",
+      "used": "18535882752"
+    }
+  },
+  "memory": {
+    "total": "540851453952"
+  },
+  "cpu": {
+    "count": 64,
+    "countLogical": 128
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA A100-PCIE-40GB",
+      "memoryTotal": "42949672960",
+      "cudaCores": 6912,
+      "architecture": "Ampere"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

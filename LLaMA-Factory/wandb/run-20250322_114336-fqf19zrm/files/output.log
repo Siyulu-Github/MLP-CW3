@@ -1,0 +1,172 @@
+                                                                                                                                                                               
+{'loss': 2.0273, 'grad_norm': 2.7941882610321045, 'learning_rate': 2.6315789473684212e-05, 'epoch': 0.08}
+{'loss': 1.8866, 'grad_norm': 2.837594985961914, 'learning_rate': 5.2631578947368424e-05, 'epoch': 0.16}
+{'loss': 1.1574, 'grad_norm': 1.2905572652816772, 'learning_rate': 7.894736842105263e-05, 'epoch': 0.24}
+{'loss': 1.0438, 'grad_norm': 3.900554656982422, 'learning_rate': 9.999130984819662e-05, 'epoch': 0.32}
+{'loss': 1.0195, 'grad_norm': 0.8181789517402649, 'learning_rate': 9.968747159619556e-05, 'epoch': 0.4}
+{'loss': 1.0934, 'grad_norm': 2.926440954208374, 'learning_rate': 9.895214178707516e-05, 'epoch': 0.48}
+{'loss': 1.0506, 'grad_norm': 1.1775588989257812, 'learning_rate': 9.779170610708872e-05, 'epoch': 0.56}
+{'loss': 1.023, 'grad_norm': 1.159317135810852, 'learning_rate': 9.621624190938803e-05, 'epoch': 0.64}
+{'loss': 0.8863, 'grad_norm': 1.2920697927474976, 'learning_rate': 9.423943070116218e-05, 'epoch': 0.72}
+{'loss': 1.0091, 'grad_norm': 1.4954233169555664, 'learning_rate': 9.187843933189995e-05, 'epoch': 0.8}
+{'loss': 0.9665, 'grad_norm': 1.0121687650680542, 'learning_rate': 8.915377091454992e-05, 'epoch': 0.88}
+{'loss': 1.0727, 'grad_norm': 1.3162440061569214, 'learning_rate': 8.608908677419606e-05, 'epoch': 0.96}
+{'loss': 0.9808, 'grad_norm': 1.1121071577072144, 'learning_rate': 8.271100097046584e-05, 'epoch': 1.04}
+{'loss': 0.9524, 'grad_norm': 0.6365073323249817, 'learning_rate': 7.904884917806174e-05, 'epoch': 1.12}
+{'loss': 0.9165, 'grad_norm': 1.9047902822494507, 'learning_rate': 7.513443393248312e-05, 'epoch': 1.2}
+{'loss': 0.9999, 'grad_norm': 1.64044189453125, 'learning_rate': 7.100174845325327e-05, 'epoch': 1.28}
+{'loss': 0.8594, 'grad_norm': 3.9461348056793213, 'learning_rate': 6.668668144300149e-05, 'epoch': 1.36}
+{'loss': 1.0059, 'grad_norm': 2.0226540565490723, 'learning_rate': 6.2226705425958e-05, 'epoch': 1.44}
+{'loss': 0.9535, 'grad_norm': 1.5350515842437744, 'learning_rate': 5.766055133236513e-05, 'epoch': 1.52}
+{'loss': 0.7422, 'grad_norm': 2.024404287338257, 'learning_rate': 5.3027872154749915e-05, 'epoch': 1.6}
+{'loss': 1.0212, 'grad_norm': 0.7987816333770752, 'learning_rate': 4.8368898596904834e-05, 'epoch': 1.68}
+{'loss': 0.8606, 'grad_norm': 2.22965669631958, 'learning_rate': 4.3724089705959305e-05, 'epoch': 1.76}
+{'loss': 0.9284, 'grad_norm': 0.8927049040794373, 'learning_rate': 3.913378152149214e-05, 'epoch': 1.84}
+{'loss': 0.9393, 'grad_norm': 0.8881109952926636, 'learning_rate': 3.463783679285535e-05, 'epoch': 1.92}
+{'loss': 0.8145, 'grad_norm': 0.5718414783477783, 'learning_rate': 3.02752988066031e-05, 'epoch': 2.0}
+{'loss': 0.8081, 'grad_norm': 1.6191648244857788, 'learning_rate': 2.6084052330227238e-05, 'epoch': 2.08}
+{'loss': 0.8392, 'grad_norm': 0.7808419466018677, 'learning_rate': 2.2100494616601893e-05, 'epoch': 2.16}
+{'loss': 0.8078, 'grad_norm': 3.6099517345428467, 'learning_rate': 1.835921932617119e-05, 'epoch': 2.24}
+{'loss': 0.7351, 'grad_norm': 1.1508498191833496, 'learning_rate': 1.4892716111735378e-05, 'epoch': 2.32}
+{'loss': 0.8722, 'grad_norm': 1.6019306182861328, 'learning_rate': 1.1731088474674234e-05, 'epoch': 2.4}
+{'loss': 0.8246, 'grad_norm': 2.497575521469116, 'learning_rate': 8.901792342776437e-06, 'epoch': 2.48}
+{'loss': 0.8147, 'grad_norm': 1.6181222200393677, 'learning_rate': 6.429397639893758e-06, 'epoch': 2.56}
+{'loss': 0.8233, 'grad_norm': 1.7246237993240356, 'learning_rate': 4.335374917975981e-06, 'epoch': 2.64}
+{'loss': 0.8274, 'grad_norm': 0.9359976649284363, 'learning_rate': 2.6379089043980067e-06, 'epoch': 2.72}
+{'loss': 0.7394, 'grad_norm': 0.8607781529426575, 'learning_rate': 1.3517405837546403e-06, 'epoch': 2.8}
+{'loss': 0.7718, 'grad_norm': 2.239389657974243, 'learning_rate': 4.880391855028088e-07, 'epoch': 2.88}
+{'loss': 0.7661, 'grad_norm': 2.563128709793091, 'learning_rate': 5.430518912448168e-08, 'epoch': 2.96}
+[INFO|configuration_utils.py:699] 2025-03-22 12:04:39,178 >> loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--Qwen--Qwen2.5-VL-3B-Instruct/snapshots/d16cc59d21b11ae937997b261d5e811e7b3cea5d/config.json
+[INFO|configuration_utils.py:771] 2025-03-22 12:04:39,183 >> Model config Qwen2_5_VLConfig {
+  "architectures": [
+    "Qwen2_5_VLForConditionalGeneration"
+  ],
+  "attention_dropout": 0.0,
+  "bos_token_id": 151643,
+  "eos_token_id": 151645,
+  "hidden_act": "silu",
+  "hidden_size": 2048,
+  "image_token_id": 151655,
+  "initializer_range": 0.02,
+  "intermediate_size": 11008,
+  "max_position_embeddings": 128000,
+  "max_window_layers": 70,
+  "model_type": "qwen2_5_vl",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 36,
+  "num_key_value_heads": 2,
+  "rms_norm_eps": 1e-06,
+  "rope_scaling": {
+    "mrope_section": [
+      16,
+      24,
+      24
+    ],
+    "rope_type": "default",
+    "type": "default"
+  },
+  "rope_theta": 1000000.0,
+  "sliding_window": 32768,
+  "tie_word_embeddings": true,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.49.0",
+  "use_cache": true,
+  "use_sliding_window": false,
+  "video_token_id": 151656,
+  "vision_config": {
+    "hidden_size": 1280,
+    "in_chans": 3,
+    "model_type": "qwen2_5_vl",
+    "out_hidden_size": 2048,
+    "spatial_patch_size": 14,
+    "tokens_per_second": 2
+  },
+  "vision_end_token_id": 151653,
+  "vision_start_token_id": 151652,
+  "vision_token_id": 151654,
+  "vocab_size": 151936
+}
+
+[INFO|tokenization_utils_base.py:2500] 2025-03-22 12:04:39,326 >> tokenizer config file saved in saves/qwen2.5_vl-3b/lora/sft/checkpoint-375/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2509] 2025-03-22 12:04:39,327 >> Special tokens file saved in saves/qwen2.5_vl-3b/lora/sft/checkpoint-375/special_tokens_map.json
+[INFO|image_processing_base.py:261] 2025-03-22 12:04:40,001 >> Image processor saved in saves/qwen2.5_vl-3b/lora/sft/checkpoint-375/preprocessor_config.json
+[INFO|tokenization_utils_base.py:2500] 2025-03-22 12:04:40,003 >> tokenizer config file saved in saves/qwen2.5_vl-3b/lora/sft/checkpoint-375/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2509] 2025-03-22 12:04:40,003 >> Special tokens file saved in saves/qwen2.5_vl-3b/lora/sft/checkpoint-375/special_tokens_map.json
+[INFO|processing_utils.py:638] 2025-03-22 12:04:40,731 >> chat template saved in saves/qwen2.5_vl-3b/lora/sft/checkpoint-375/chat_template.json
+[INFO|trainer.py:2657] 2025-03-22 12:04:40,731 >>
+
+Training completed. Do not forget to share your model on huggingface.co/models =)
+
+
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 375/375 [21:03<00:00,  3.37s/it]
+{'train_runtime': 1264.4412, 'train_samples_per_second': 2.373, 'train_steps_per_second': 0.297, 'train_loss': 0.9662628968556722, 'epoch': 3.0}
+[INFO|image_processing_base.py:261] 2025-03-22 12:04:40,736 >> Image processor saved in saves/qwen2.5_vl-3b/lora/sft/preprocessor_config.json
+[INFO|tokenization_utils_base.py:2500] 2025-03-22 12:04:40,737 >> tokenizer config file saved in saves/qwen2.5_vl-3b/lora/sft/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2509] 2025-03-22 12:04:40,737 >> Special tokens file saved in saves/qwen2.5_vl-3b/lora/sft/special_tokens_map.json
+[INFO|processing_utils.py:638] 2025-03-22 12:04:41,392 >> chat template saved in saves/qwen2.5_vl-3b/lora/sft/chat_template.json
+[INFO|trainer.py:3942] 2025-03-22 12:04:41,394 >> Saving model checkpoint to saves/qwen2.5_vl-3b/lora/sft
+[INFO|configuration_utils.py:699] 2025-03-22 12:04:41,514 >> loading configuration file config.json from cache at /root/.cache/huggingface/hub/models--Qwen--Qwen2.5-VL-3B-Instruct/snapshots/d16cc59d21b11ae937997b261d5e811e7b3cea5d/config.json
+[INFO|configuration_utils.py:771] 2025-03-22 12:04:41,518 >> Model config Qwen2_5_VLConfig {
+  "architectures": [
+    "Qwen2_5_VLForConditionalGeneration"
+  ],
+  "attention_dropout": 0.0,
+  "bos_token_id": 151643,
+  "eos_token_id": 151645,
+  "hidden_act": "silu",
+  "hidden_size": 2048,
+  "image_token_id": 151655,
+  "initializer_range": 0.02,
+  "intermediate_size": 11008,
+  "max_position_embeddings": 128000,
+  "max_window_layers": 70,
+  "model_type": "qwen2_5_vl",
+  "num_attention_heads": 16,
+  "num_hidden_layers": 36,
+  "num_key_value_heads": 2,
+  "rms_norm_eps": 1e-06,
+  "rope_scaling": {
+    "mrope_section": [
+      16,
+      24,
+      24
+    ],
+    "rope_type": "default",
+    "type": "default"
+  },
+  "rope_theta": 1000000.0,
+  "sliding_window": 32768,
+  "tie_word_embeddings": true,
+  "torch_dtype": "bfloat16",
+  "transformers_version": "4.49.0",
+  "use_cache": true,
+  "use_sliding_window": false,
+  "video_token_id": 151656,
+  "vision_config": {
+    "hidden_size": 1280,
+    "in_chans": 3,
+    "model_type": "qwen2_5_vl",
+    "out_hidden_size": 2048,
+    "spatial_patch_size": 14,
+    "tokens_per_second": 2
+  },
+  "vision_end_token_id": 151653,
+  "vision_start_token_id": 151652,
+  "vision_token_id": 151654,
+  "vocab_size": 151936
+}
+
+[INFO|tokenization_utils_base.py:2500] 2025-03-22 12:04:41,617 >> tokenizer config file saved in saves/qwen2.5_vl-3b/lora/sft/tokenizer_config.json
+[INFO|tokenization_utils_base.py:2509] 2025-03-22 12:04:41,617 >> Special tokens file saved in saves/qwen2.5_vl-3b/lora/sft/special_tokens_map.json
+***** train metrics *****
+  epoch                    =        3.0
+  total_flos               = 33675919GF
+  train_loss               =     0.9663
+  train_runtime            = 0:21:04.44
+  train_samples_per_second =      2.373
+  train_steps_per_second   =      0.297
+Figure saved at: saves/qwen2.5_vl-3b/lora/sft/training_loss.png
+[WARNING|2025-03-22 12:04:42] llamafactory.extras.ploting:148 >> No metric eval_loss to plot.
+[WARNING|2025-03-22 12:04:42] llamafactory.extras.ploting:148 >> No metric eval_accuracy to plot.
+[INFO|modelcard.py:449] 2025-03-22 12:04:42,096 >> Dropping the following result as it does not have all the necessary fields:
+{'task': {'name': 'Causal Language Modeling', 'type': 'text-generation'}}
